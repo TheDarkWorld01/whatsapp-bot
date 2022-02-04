@@ -1,17 +1,17 @@
 <p align="center">
-<img src="https://j.top4top.io/p_2226dwv9w1.jpeg" width="225" height="225"/>
+<img src="https://j.top4top.io/p_2226dwv9w1.jpeg" width="250" height="250"/>
 </p>
 <p align="center">
 <a href="https://chat.whatsapp.com/EGl7538B4W82E19BxZGqno"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
 <p align="center">
  <a href="https://www.facebook.com/groups/569012454419629"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20Group-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a></p>
 <p align="center">
-<a href="https://github.com/Urbaexyz"><img title="Author" src="https://img.shields.io/badge/Author-Thoriq Azzikra-blue.svg?style=flat&logo=github"></a>
+<a href="https://github.com/TheDarkWorld01"><img title="Author" src="https://img.shields.io/badge/Author-Thoriq Azzikra-blue.svg?style=flat&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Urbaexyz?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Urbaexyz?color=blue&style=flat-square"></a>
-<a href="https://github.com/Urbaexyz/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Urbaexyz/whatsapp-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Urbaexyz/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Urbaexyz/whatsapp-bot?color=blue&style=flat-square"></a>
-<a href="https://github.com/Urbaexyz/whatsapp-bot/blob/main/package.json#L3"><img src="https://img.shields.io/github/package-json/v/Urbaexyz/whatsapp-bot"></a>
+<a href="https://github.com/TheDarkWorld01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Urbaexyz?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Urbaexyz/whatsapp-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Urbaexyz/whatsapp-bot?color=blue&style=flat-square"></a>
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/blob/main/package.json#L3"><img src="https://img.shields.io/github/package-json/v/Urbaexyz/whatsapp-bot"></a>
 <img src="https://img.shields.io/github/languages/top/Urbaexyz/whatsapp-bot">
 <img src="https://img.shields.io/github/search/Urbaexyz/whatsapp-bot/whatsapp-bot">
 <img src="https://img.shields.io/github/repo-size/Urbaexyz/whatsapp-bot">
@@ -25,27 +25,17 @@
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbaexyz&repo=whatsapp-bot&bg_color=20,e96443,904e89&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true" />
   </p>
  <p align="center">
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#Requirements">Requirements</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#install">Installation</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#Usage">Usage</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#Information">Information</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#features">Features</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#To-Do">To-Do</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#Troubleshooting">Troubleshooting</a> •
-  <a href="https://github.com/Urbaexyz/whatsapp-bot#thanks-to">Thanks to</a>
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#Requirements">Requirements</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#install">Installation</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#Usage">Usage</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#Information">Information</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#features">Features</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#To-Do">To-Do</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#Troubleshooting">Troubleshooting</a> •
+  <a href="https://github.com/TheDarkWorld01/whatsapp-bot#thanks-to">Thanks to</a>
 </p>
 </div>
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/75126993/128907522-ad352035-dee4-4a7f-ac9a-84b8f49b434e.gif" width="600" height="338"/>
- </p>
-
-
-# Donate
-- [Saweria](https://saweria.co/thoriqazzikra)
-- [Paypal](https://www.paypal.com/paypalme/thoriqazzikra)
-- [Trakteer](https://trakteer.id/thoriqazzikra)
-- [Nyawer](https://nyawer.co/thoriqazzikra)
 
  ## Things I Code With
 <p>
