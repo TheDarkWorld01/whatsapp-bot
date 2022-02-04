@@ -169,8 +169,8 @@ const inArray = (needle, haystack) => {
 }
 
 
-const errorurl = 'https://i.ibb.co/PNR9rT3/IMG-20210412-WA0036.jpg'
-const errorurl2 = 'https://i.ibb.co/SfPCmsZ/65307459-647461459071676-8817651150049313976-n.jpg'
+const errorurl = 'https://j.top4top.io/p_2226dwv9w1.jpeg'
+const errorurl2 = 'https://j.top4top.io/p_2226dwv9w1.jpeg'
 
 const isMuted = (chatId) => {
 	if (muted.includes(chatId)) {
@@ -265,8 +265,8 @@ module.exports = HandleMsg = async (urbae, message) => {
 		const StickerMetadatacrop = { author: authorstc, pack: packstc, keepScale: false }
 
 		// [IDENTIFY]
-		const ownerNumber = "62895334951166@c.us"
-		const errorImg = "https://i.ibb.co/DYLd6fk/baukrysie.jpg"
+		const ownerNumber = "6285879707126@c.us"
+		const errorImg = "https://j.top4top.io/p_2226dwv9w1.jpeg"
 		const isOwnerBot = ownerNumber.includes(pengirim)
 		const isOwner = ownerNumber.includes(pengirim)
 		const isOwnerB = ownerNumber.includes(pengirim)
@@ -291,11 +291,11 @@ module.exports = HandleMsg = async (urbae, message) => {
 			const sends = sender.id
 			const ras = await urbae.getProfilePicFromServer(sends)
 			if (ras == undefined) {
-				var pfp = 'https://i.ibb.co/PNR9rT3/IMG-20210412-WA0036.jpg'
+				var pfp = 'https://j.top4top.io/p_2226dwv9w1.jpeg'
 			} else {
 				var pfp = ras
 			}
-			urbae.reply(from, 'ngapain tag Thoriq?\npc aja kali sabii', id).then(() => {
+			urbae.reply(from, 'maaf sistem sedang sibuk', id).then(() => {
 				urbae.sendFileFromUrl(ownerNumber, pfp, 'img.jpg', `*Note Call*\n\n*From:* ${pushname}\n*Group:* ${name}\n*Nomor:* wa.me/${serial.replace(/@c.us/g, '')}\n*Text:* ${chats}`)
 			})
 		}
