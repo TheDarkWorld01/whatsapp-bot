@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://j.top4top.io/p_2226dwv9w1.jpeg" width="550" height="250"/>
+<img src="https://j.top4top.io/p_2226dwv9w1.jpeg" width="450" height="350"/>
 </p>
 <p align="center">
 <a href="https://chat.whatsapp.com/EGl7538B4W82E19BxZGqno"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-%23017e40?style=for-the-badge&logo=whatsapp&logoColor=white"/></a></p>
