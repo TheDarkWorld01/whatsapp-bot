@@ -6,7 +6,7 @@
 <p align="center">
  <a href="https://www.facebook.com/groups/569012454419629"><img alt="Facebook" src="https://img.shields.io/badge/Facebook%20Group-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a></p>
 <p align="center">
-<a href="https://github.com/TheDarkWorld01"><img title="Author" src="https://img.shields.io/badge/Author-Thoriq Azzikra-blue.svg?style=flat&logo=github"></a>
+<a href="https://github.com/TheDarkWorld01"><img title="Author" src="https://img.shields.io/badge/Author-TheDarkWorld01-blue.svg?style=flat&logo=github"></a>
 <p align="center">
 <a href="https://github.com/TheDarkWorld01?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Urbaexyz?color=blue&style=flat-square"></a>
 <a href="https://github.com/TheDarkWorld01/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Urbaexyz/whatsapp-bot?color=blue&style=flat-square"></a>
