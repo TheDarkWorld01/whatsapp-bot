@@ -12,17 +12,17 @@
 <a href="https://github.com/TheDarkWorld01/whatsapp-bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TheDarkWorld01/whatsapp-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/TheDarkWorld01/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TheDarkWorld01/whatsapp-bot?color=blue&style=flat-square"></a>
 <a href="https://github.com/TheDarkWorld01/whatsapp-bot/blob/main/package.json#L3"><img src="https://img.shields.io/github/package-json/v/TheDarkWorld01/whatsapp-bot"></a>
-<img src="https://img.shields.io/github/languages/top/Urbaexyz/whatsapp-bot">
-<img src="https://img.shields.io/github/search/Urbaexyz/whatsapp-bot/whatsapp-bot">
-<img src="https://img.shields.io/github/repo-size/Urbaexyz/whatsapp-bot">
-<a href="https://github.com/TheDarkWorld01/whatsapp-bot/issues"> <img src="https://img.shields.io/github/issues/Urbaexyz/whatsapp-bot"></a>
-<a href="https://github.com/TheDarkWorld01/whatsapp-bot/issues?q=is%3Aissue+is%3Aclosed"> <img src="https://img.shields.io/github/issues-closed/Urbaexyz/whatsapp-bot"></a>
+<img src="https://img.shields.io/github/languages/top/TheDarkWorld01/whatsapp-bot">
+<img src="https://img.shields.io/github/search/TheDarkWorld01/whatsapp-bot/whatsapp-bot">
+<img src="https://img.shields.io/github/repo-size/TheDarkWorld01/whatsapp-bot">
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/issues"> <img src="https://img.shields.io/github/issues/TheDarkWorld01/whatsapp-bot"></a>
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/issues?q=is%3Aissue+is%3Aclosed"> <img src="https://img.shields.io/github/issues-closed/TheDarkWorld01/whatsapp-bot"></a>
 <a href="https://github.com/TheDarkWorld01/whatsapp-bot/blob/main/LICENSE"> <img src="https://img.shields.io/github/license/TheDarkWorld01/whatsapp-bot"></a>
-<a href="https://github.com/TheDarkWorld01/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Urbaexyz/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUrbaexyz%2Fwhatsapp-bot&count_bg=%23476FFF&title_bg=%23868080&icon=openbadges.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+<a href="https://github.com/TheDarkWorld01/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TheDarkWorld01/whatsapp-bot?label=Watchers&color=blue&style=flat-square"></a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheDarkWorld01%2Fwhatsapp-bot&count_bg=%23476FFF&title_bg=%23868080&icon=openbadges.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbaexyz&repo=whatsapp-bot&bg_color=20,e96443,904e89&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheDarkWorld01&repo=whatsapp-bot&bg_color=20,e96443,904e89&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true" />
   </p>
  <p align="center">
   <a href="https://github.com/TheDarkWorld01/whatsapp-bot#Requirements">Requirements</a> •
