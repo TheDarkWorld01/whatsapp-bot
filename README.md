@@ -400,14 +400,3 @@ Fix Stuck on linux, install google chrome stable:
 > wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
-
-## Thanks to
-- [WA-Automate](https://github.com/open-wa/wa-automate-nodejs)
-- [YogaSakti](https://github.com/YogaSakti/imageToSticker)
-- [MhankBarBar](https://github.com/MhankBarBar/whatsapp-bot)
-- [dandyraka](https://github.com/dandyraka/NoBadWord)
-- [ArugaZ](https://github.com/ArugaZ/whatsapp-bot)
-- [TobyG74](https://github.com/TobyG74/ElainaBOT)
-- [VideFrelan](https://github.com/VideFrelan/vfbot-wa)
-- [SlavyanDesu](https://github.com/SlavyanDesu)
-- [Zekais](https://github.com/fawwaz37)
